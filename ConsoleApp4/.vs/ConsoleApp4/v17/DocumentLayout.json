@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41D5DBD4-F316-421C-A28F-47B6D8661D40}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\admin\\source\\repos\\consoleapp4\\consoleapp4\\wordpart3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D5DBD4-F316-421C-A28F-47B6D8661D40}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\wordpart3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D5DBD4-F316-421C-A28F-47B6D8661D40}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\admin\\source\\repos\\consoleapp4\\consoleapp4\\wordpart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D5DBD4-F316-421C-A28F-47B6D8661D40}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\wordpart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D5DBD4-F316-421C-A28F-47B6D8661D40}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\admin\\source\\repos\\consoleapp4\\consoleapp4\\wordpart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D5DBD4-F316-421C-A28F-47B6D8661D40}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\wordpart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D5DBD4-F316-421C-A28F-47B6D8661D40}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\admin\\source\\repos\\consoleapp4\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D5DBD4-F316-421C-A28F-47B6D8661D40}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordPart3.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ConsoleApp4\\ConsoleApp4\\WordPart3.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\WordPart3.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ConsoleApp4\\ConsoleApp4\\WordPart3.cs",
+              "RelativeToolTip": "ConsoleApp4\\WordPart3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:26:17.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordPart2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ConsoleApp4\\ConsoleApp4\\WordPart2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\WordPart2.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ConsoleApp4\\ConsoleApp4\\WordPart2.cs",
+              "RelativeToolTip": "ConsoleApp4\\WordPart2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:26:17.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordPart1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ConsoleApp4\\ConsoleApp4\\WordPart1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\WordPart1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ConsoleApp4\\ConsoleApp4\\WordPart1.cs",
+              "RelativeToolTip": "ConsoleApp4\\WordPart1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:26:08.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:15:11.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
