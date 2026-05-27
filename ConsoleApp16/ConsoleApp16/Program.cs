@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            Console.WriteLine("=== Сборка мусора (GC) ===\n");
+            Console.WriteLine("Сборка мусора (GC)\n");
 
             Console.WriteLine("1. Что такое сборка мусора и зачем она нужна?");
             Console.WriteLine(
@@ -33,7 +33,7 @@
                 "GC handles). Тогда GC может удалить объект при следующей сборке.");
 
             Console.WriteLine();
-            Console.WriteLine("--- Демонстрация GC ---");
+            Console.WriteLine("Демонстрация GC");
             for (int i = 0; i < 10000; i++)
                 _ = new byte[1000];
 
