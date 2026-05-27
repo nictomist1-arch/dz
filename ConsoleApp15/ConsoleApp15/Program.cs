@@ -64,16 +64,16 @@
     {
         static async Task Main()
         {
-            Console.WriteLine("=== DoAfter ===");
+            Console.WriteLine("DoAfter");
             TimerHelper.DoAfter(() => Console.WriteLine("Действие выполнено через 2 секунды!"), 2);
             await Task.Delay(2500);
 
             Console.WriteLine();
-            Console.WriteLine("=== AlarmClock ===");
+            Console.WriteLine("AlarmClock");
             var clock = new AlarmClock();
             clock.AlarmRang += () =>
             {
-                Console.WriteLine("*** БУДИЛЬНИК СРАБОТАЛ! ***");
+                Console.WriteLine("БУДИЛЬНИК СРАБОТАЛ!");
                 clock.Stop();
             };
 
