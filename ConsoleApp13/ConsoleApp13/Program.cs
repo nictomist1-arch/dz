@@ -103,7 +103,7 @@
     {
         static void Main()
         {
-            Console.WriteLine("=== Месяцы и сезоны ===");
+            Console.WriteLine("Месяцы и сезоны");
             foreach (Month month in new[] { Month.January, Month.April, Month.July, Month.October })
                 Console.WriteLine($"{month} -> {SeasonHelper.GetSeason(month)}");
 
@@ -111,7 +111,7 @@
             SeasonHelper.PrintSeasonInfo(Season.Summer);
 
             Console.WriteLine();
-            Console.WriteLine("=== Права доступа ===");
+            Console.WriteLine("Права доступа");
             var user = new User(Permissions.Read);
             user.PrintPermissions();
 
